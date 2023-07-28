@@ -1,0 +1,8 @@
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe.config
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\bin\Debug\Bubblesort.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\bin\Debug\Bubblesort.pdb
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.AssemblyReference.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.SuggestedBindingRedirects.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\obj\Debug\Bubblesort.csproj.CoreCompileInputs.cache
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\obj\Debug\Bubblesort.exe
+C:\Users\91849\OneDrive\Desktop\Assisted Projects\Bubblesort\Bubblesort\obj\Debug\Bubblesort.pdb
